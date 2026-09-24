@@ -12,3 +12,5 @@ Este espacio reúne parte de mi proceso de aprendizaje, proyectos académicos, e
 
 Siempre aprendiendo, creando y buscando nuevas formas de crecer.
 
+## Pasante de Community Manager en La Posta
+Actualmente me desempeño como pasante de Community Manager, participando en la planificación de contenido, gestión de redes sociales y apoyo en estrategias de comunicación digital para fortalecer la presencia y el posicionamiento de la empresa en entornos digitales.
