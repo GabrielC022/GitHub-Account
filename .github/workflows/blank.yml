@@ -30,7 +30,7 @@ jobs:
           python-version: "3.10"
 
       - name: Instalar dependencias
-        run: pip install jupyter nbconvert
+        run: pip install jupyter nbconvert pandas
 
       - name: Ejecutar el notebook
         run: jupyter nbconvert --to notebook --execute Untitled0.ipynb
